@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Winding Path: A Story of Finding Our Model Through Trial, Error, and Evolution"
+title: "The Winding Path-A Story of Finding Our Model Through Trial, Error, and Evolution"
 description: "In this field note, I share our winding path to finding a sustainable model through a "beautiful failure," a forced rebirth, and a resilient new approach."
 date: 2025-09-24
 feature_image: "https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2307TongHanChun.jpg"
