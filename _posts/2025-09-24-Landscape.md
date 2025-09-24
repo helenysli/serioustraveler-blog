@@ -20,6 +20,8 @@ This is a story about that iceberg.
 
 ### **The Tip of the Iceberg: A** **Gap** **in Access and Growth**
 
+![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2509Iceberg1.jpeg)
+
 What is immediately visible is a stark contradiction. On one hand, Chinese youth have a tremendous, growing demand for meaningful service opportunities. They are not looking for simple, token activities; they crave experiences where they can apply their skills, receive professional guidance, and feel a real sense of personal development.
 
 On the other hand, the supply is scarce and often shallow. Less than a quarter of middle school students have ever had the chance to participate. This creates a frustrating gap of access. And for the few who do participate, the experience often leads to a second, more subtle problem: a sense of vague, unarticulated growth. They are left feeling that they did something good, but without a clear language to understand *how* they grew, the educational value is lost.
@@ -28,7 +30,7 @@ On the other hand, the supply is scarce and often shallow. Less than a quarter o
 
 Why does this gap exist? Because the three main pillars that should support youth engagement—nonprofits, schools, and families—are all facing their own profound challenges.
 
-
+![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2509Iceberg2.jpeg.jpeg)
 
 1、**The Nonprofits: Capable in Service, but Lacking in Education**
 
@@ -49,6 +51,8 @@ Their honesty was illuminating. The vast majority of mainstream educators in Chi
 ### **The Deep Currents: The Systemic Roots**
 
 What created this system-wide mismatch? Here, we reach the deepest and most powerful forces shaping our work.
+
+![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2509Iceberg3.jpeg)
 
 1. **A Disrupted Culture of Giving.**
 
