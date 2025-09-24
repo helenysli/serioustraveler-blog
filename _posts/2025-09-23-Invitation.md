@@ -1,13 +1,15 @@
 ---
 layout: post
 title: "Invitation Letter"
-description: "Growth isn't an accident; it can be engineered. In this note, I share our Purpose Framework and how we use it in a 3-day camp to make a student's journey visible."
-date: 2025-09-24
+description: "Welcome to my practitioner's notebook. I'm an educator from China sharing notes on youth purpose and seeking dialogue with peers during my U.S. visit."
+date: 2025-09-23
 feature_image: "https://helenysli.oss-cn-beijing.aliyuncs.com/sjblog2507Shine.jpg"
 tags: [Youth Philanthropy Education]
 ---
 
-**Hello, and welcome.**  My name is Helen Li, and I am an educator from China, working on what often feels like a new frontier: philanthropy education for young people.
+**Hello, and welcome.** 
+
+My name is Helen Li. I am an educator from China, working on what I believe is a new frontier: helping a generation shape its relationship with philanthropy. It is this sense of possibility that brings me to the United States to listen and learn.
 
 <!--more-->
 
@@ -23,7 +25,11 @@ To begin the conversation, I've shared three core notes from my notebook:
 
 \* **Making Purpose Visible:** A deep dive into the framework we use to design and witness growth.
 
-During my visit, I am especially eager to connect with fellow practitioners and researchers. I hope to learn from experts who are cultivating purpose in youth, visit schools with strong service-learning practices, and exchange ideas with organizations that are building the infrastructure for philanthropy education.
+During my visit, I hope to connect with fellow travelers on this path—practitioners, researchers, and educators who are also exploring how to cultivate purpose in youth. 
+
+I hope to learn from experts who are cultivating purpose in youth, visit schools with strong service-learning practices, and exchange ideas with organizations that are building the infrastructure for philanthropy education.
+
+I am here to learn from your experiences, share lessons from our winding path in China, and explore our shared questions.
 
 I hope these notes offer a glimpse into our world. More than anything, I hope they can be the start of a real conversation.
 
