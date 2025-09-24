@@ -9,16 +9,16 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "A Serious Traveler on the Frontier"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Field Notes and Reflections on Cultivating Youth Purpose and Youth Philanthropy Education in China. A practitioner's notebook by Helen Li."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://serioustraveler.blog"
 
 # Favicon
 favicon: images/favicon.png
@@ -30,24 +30,24 @@ google_analytics: ""
 navigation:
   - text: Home
     url: /
-  - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
+  - text: My Journey
+    url: /my-journey/
+  - text: The Notebook
+    url: /notebook/
   - text: Tags
     url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+  - text: Contact
+    url: /contact/
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus: ""
 
 # Colors
 accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "&copy; 2025 Helen Li. All rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
   has_social: true
 
 # Plugins
