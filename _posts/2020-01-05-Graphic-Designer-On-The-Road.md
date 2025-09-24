@@ -1,33 +1,72 @@
 ---
 layout: post
-title: "Graphic Designer On The Road"
-description: "A graphic designer is a professional within the graphic design and graphic arts industry."
-date: 2022-01-05
-feature_image: images/road.jpg
-tags: [tips, work]
+title: "The Winding Path: A Story of Finding Our Model Through Trial, Error, and Evolution"
+description: "In this field note, I share our winding path to finding a sustainable model through a "beautiful failure," a forced rebirth, and a resilient new approach."
+date: 2025-09-24
+feature_image: "https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2307TongHanChun.jpg"
+tags: [Youth Philanthropy Education]
 ---
 
-A graphic designer is a professional within the graphic design and graphic arts industry who assembles together images, typography, or motion graphics to create a piece of design. A graphic designer creates the graphics primarily for published, printed or electronic media, such as brochures (sometimes) and advertising. They are also sometimes responsible for typesetting, illustration, user interfaces, web design, or take a teaching position. A core responsibility of the designer's job is to present information in a way that is both accessible and memorable.
+I remember the feeling so clearly. It was 2019, and I was standing at the back of a classroom in a Shanghai public school, watching a group of sixth-graders excitedly debate the meaning of philanthropy. By all conventional metrics, our year-long Philanthropy 101 course was a success. But deep down, I knew we were heading towards a dead end. 
 
 <!--more-->
 
-A degree or certificate from an accredited trade school is usually considered essential for a graphic design position. After a career history has been established, though, the graphic designer's experience and number of years in the business are considered the primary qualifications. A portfolio, which is the primary method for demonstrating these qualifications, is usually required to be shown at job interviews, and is constantly developed throughout a designer's career. [[Source](https://en.wikipedia.org/wiki/Graphic_designer)]
+This is the story of that dead end, and the long, winding path it forced us to take.
 
-Ice molecules can exhibit up to sixteen different phases _(packing geometries)_ that depend on temperature and pressure. When water is cooled rapidly (quenching), up to three different types of amorphous ice can form depending on the history of its pressure and temperature. When cooled slowly correlated proton tunneling occurs below 20 K giving rise to macroscopic quantum phenomena. Virtually all the ice on Earth's surface and in its atmosphere is of a hexagonal crystalline structure denoted as ice Ih (spoken as "ice one h") with minute traces of cubic ice denoted as ice Ic. The most common phase transition to ice Ih occurs when liquid water is cooled below 0°C (273.15K, 32°F) at standard atmospheric pressure. It may also be deposited directly by water vapor, as happens in the formation of frost. The transition from ice to water is melting and from ice directly to water vapor is sublimation.
+From our founding, we were crystal clear about one thing: we wanted to use philanthropy and charity as a vehicle to help young people grow. From the very beginning, we hoped to explore a path that could truly integrate philanthropy with education. This clarity of purpose would prove essential as we navigated the challenges ahead.
 
-## Characteristics
 
-As a naturally-occurring crystalline inorganic solid with an ordered structure, ice is considered a mineral.[citation needed] It possesses a regular crystalline structure based on the molecule of water, which consists of a single oxygen atom covalently bonded to two hydrogen atoms, or H-O-H. However, many of the physical properties of water and ice are controlled by the formation of hydrogen bonds between adjacent oxygen and hydrogen atoms; while it is a weak bond, it is nonetheless critical in controlling the structure of both water and ice.
 
-> “ice contains no future , just the past, sealed away. As if they're alive, everything in the world is sealed up inside, clear and distinct. Ice can preserve all kinds of things that way- cleanly, clearly. That's the essence of ice, the role it plays.”
-> <cite>― Haruki Murakami</cite>
+### **Part 1: The Beautiful Failure - Lessons in Systemic Reality**
 
-An unusual property of ice frozen at atmospheric pressure is that the solid is approximately 8.3% less dense than liquid water. The density of ice is 0.9167 g/cm3 at 0 °C,[4] whereas water has a density of 0.9998 g/cm³ at the same temperature. Liquid water is densest, essentially 1.00 g/cm³, at 4 °C and becomes less dense as the water molecules begin to form the hexagonal crystals[5] of ice as the freezing point is reached. This is due to hydrogen bonding dominating the intermolecular forces, which results in a packing of molecules less compact in the solid. Density of ice increases slightly with decreasing temperature and has a value of 0.9340 g/cm³ at −180 °C (93 K).[6]
+Our initial vision was to create a philanthropy curriculum that could be adopted by schools across China. Our first attempt, the "Legacy Storybook" project, involved designing an educational experience where students would interview elders in nursing homes. We hoped nonprofit organizations could provide the service opportunities, but quickly found they often lacked the capacity to support youth programs.
 
-When water freezes, it increases in volume (about 9% for freshwater).[7] The effect of expansion during freezing can be dramatic, and ice expansion is a basic cause of freeze-thaw weathering of rock in nature and damage to building foundations and roadways from frost heaving. It is also a common cause of the flooding of houses when water pipes burst due to the pressure of expanding water when it freezes.
+This led us to pivot toward the school system. The year-long course we designed for 6th graders in a Shanghai public middle school in 2018 was meant to be our scalable pilot. By all conventional metrics, it was a success. The students were engaged, the teachers were supportive, and the principal gave it glowing reviews.
 
-The result of this process is that ice _(in its most common form)_ floats on liquid water, which is an important feature in Earth's biosphere. It has been argued that without this property, natural bodies of water would freeze, in some cases permanently, from the bottom up,[8] resulting in a loss of bottom-dependent animal and plant life in fresh and sea water. Sufficiently thin ice sheets allow light to pass through while protecting the underside from short-term weather extremes such as wind chill. This creates a sheltered environment for bacterial and algal colonies. When sea water freezes, the ice is riddled with brine-filled channels which sustain sympagic organisms such as bacteria, algae, copepods and annelids, which in turn provide food for animals such as krill and specialised fish like the bald notothen, fed upon in turn by larger animals such as emperor penguins and minke whales.
+The failure came when we tried to answer the most critical question: how do we scale? The plan was to train the school's own teachers to take over. But we quickly hit a wall. The fundamental issue was not that the teachers were overburdened, but that none of them had any personal volunteering experience. We were asking them to guide students through a territory they had never explored themselves.
 
-When ice melts, it absorbs as much energy as it would take to heat an equivalent mass of water by 80 °C. During the melting process, the temperature remains constant at 0 °C. While melting, any energy added breaks the hydrogen bonds between ice (water) molecules. Energy becomes available to increase the thermal energy (temperature) only after enough hydrogen bonds are broken that the ice can be considered liquid water. The amount of energy consumed in breaking hydrogen bonds in the transition from ice to water is known as the heat of fusion.
+The beautiful, successful course we had built was entirely dependent on us. It was a wonderful project, but it wasn't a sustainable model. We had learned our first painful lesson: in China's philanthropy education "vacuum," creating a model that relied on NGOs or the existing school infrastructure was like building a house on sand.
 
-As with water, ice absorbs light at the red end of the spectrum preferentially as the result of an overtone of an oxygen-hydrogen (O-H) bond stretch. Compared with water, this absorption is shifted toward slightly lower energies. Thus, ice appears blue, with a slightly greener tint than for liquid water. Since absorption is cumulative, the color effect intensifies with increasing thickness or if internal reflections cause the light to take a longer path through the ice.
+![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblogHuaSiClassPicture.jpg)
+
+### Part 2: The Breakthrough and the Sudden Void - A Forced Rebirth
+
+So we pivoted again. If we couldn't rely on schools or nonprofits, perhaps the answer was to empower students to become funders themselves.
+
+With inspiration and support from American peers like the Michigan Community Foundations' Youth Project (MCFYP) and the Youth Philanthropy Initiative of Indiana, we launched China's first youth grantmaking program in the winter of 2019. The idea was simple but radical: a group of high school students would raise funds, research social issues, interview nonprofits, and decide for themselves which organizations to support.
+
+The model was a breakthrough. The students felt an immense sense of power and responsibility. The small, grassroots nonprofits they funded received not just money, but vital encouragement. For a moment, it felt like we had found it—the "holy grail" for philanthropy education in China.
+
+![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2106YGMCheckPresentation.jpg)
+
+And then, in July of 2022, the project was shut down by the supervising authorities for reasons that were never made clear to us.
+
+The news was a huge blow. We were confused and heartbroken. A program that created a win for everyone was stopped in its tracks. I remember struggling to accept the reality. This was China’s first generation of young people who were both able and willing to engage in philanthropy, and the door was being closed on them. This was a chance to help an entire generation reshape its relationship with civil society. Thinking of this, I knew we could not give up. 
+
+That moment of crisis became our moment of rebirth. It forced us to ask an even more fundamental question: Is it possible to create a model so resilient, so decentralized, that it depends on almost nothing but the passion of the students themselves?
+
+![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblogBetheChange.jpg)
+
+### Part 3: The Answer We Had to Earn - Finding Our Flywheel
+
+The answer that emerged was a model built around **Public Awareness Campaigns**.
+
+The idea was to decouple our work from any single institution. We would design high-quality, standardized toolkits around social issues like autism or dementia awareness. Students would learn the issue, co-create interactive games, and then take these toolkits into any public space they could find—a shopping mall, a park, a community library—to engage with strangers.
+
+This model was our answer to all the previous failures. It didn't rely on teachers to teach; we could train students directly. It didn't rely on nonprofits to provide opportunities; students created their own. And it didn't rely on a single, large-scale project that could be easily shut down; it was a thousand small, independent sparks.
+
+![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2409ZhengDa.jpg)
+
+We soon discovered this model created two powerful, self-reinforcing flywheels. A "Personal Growth Flywheel," where a shy student’s successful attempt to engage a stranger builds the confidence to take on bigger challenges. And a "Social Value Flywheel," where youth-led campaigns raise public awareness, which in turn brings more support to nonprofits.
+
+### Part 4: The Path Unfolds - Our Next Evolution
+
+For two years, we focused on refining this Public Awareness model, and it has become the core of our work. But the path, as always, is winding.
+
+In September 2025, we began our newest experiment, this time with the Shanghai Little Bridge School . In a way, we have come full circle, back to working inside a school. But this time, everything is different. Armed with the painful lessons from 2018, we are not there to teach. 
+
+Instead, our role is to support the school's own homeroom teachers, empowering them to lead their students through a year-long journey. This landmark project, centered around the ten-year-old coming-of-age milestone, integrates modules on responsibility, neuroscience, dementia awareness, and public advocacy.
+
+It is a new synthesis of everything we have learned, combining the resilience of our advocacy model with a more sustainable vision for empowering schools from within. It is still an experiment, full of new questions and challenges. And that feels exactly right.
+
+This has been our path, full of unexpected turns. I'm curious, for those of you working in education or social innovation, have you also experienced a "beautiful failure" that ultimately reshaped the core of your work?
