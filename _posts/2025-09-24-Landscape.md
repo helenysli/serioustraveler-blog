@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Long-Distance Run: Navigating the Landscape of Youth Philanthropy Education in China"
-description: "In this field note, I share our winding path to finding a sustainable model through a "beautiful failure," a forced rebirth, and a resilient new approach."
+description: "Why is philanthropy education in China so challenging? In this note, I explore the invisible "iceberg" of systemic issues that forced us to build a new path."
 date: 2025-09-24
 feature_image: "https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2307TongHanChun.jpg"
 tags: [Youth Philanthropy Education]
@@ -27,6 +27,8 @@ On the other hand, the supply is scarce and often shallow. Less than a quarter o
 ### **Below the Waterline: A Collective System Mismatch**
 
 Why does this gap exist? Because the three main pillars that should support youth engagement—nonprofits, schools, and families—are all facing their own profound challenges.
+
+
 
 1、**The Nonprofits: Capable in Service, but Lacking in Education**
 
