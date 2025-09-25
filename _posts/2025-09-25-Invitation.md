@@ -1,25 +1,14 @@
 ---
 layout: post
-title: "Invitation Letter"
-description: "Welcome to my practitioner's notebook. I'm an educator from China sharing notes on youth purpose and seeking dialogue with peers during my U.S. visit."
-date: 2025-09-25
-feature_image: "https://helenysli.oss-cn-beijing.aliyuncs.com/sjblog2507Shine.jpg"
-tags: [Youth Philanthropy Education]
-
-layout: post
 title: "Invitation for Impact"
-date: 2021-09-25 23:40:01 +0800
+date: 2025-09-25 23:40:01 +0800
 categories:
   - Connection
 tags:
-  - Inspiring
-  - Women'sPhilanthropy
+  - Service Learning
+  - Purpose
 description: "关于恐惧和自由。关于勇气和选择。"
 ---
-
-
-
-
 
 **Hello, and welcome.** 
 

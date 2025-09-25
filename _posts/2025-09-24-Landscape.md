@@ -8,7 +8,6 @@ categories:
 tags:
   - China Context
 description: "Why is youth philanthropy education in China so challenging? In this note, I explore the invisible "iceberg" of systemic issues that forced us to build a new path."
-
 ---
 ```
 
