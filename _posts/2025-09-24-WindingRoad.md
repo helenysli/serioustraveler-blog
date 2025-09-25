@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "The Winding Path-A Story of Finding Our Model Through Trial, Error, and Evolution"
+date: 2025-09-24 21:30:01 +0800
+categories:
+  - Field Notes
+tags:
+  - Failure
+  - Women'sPhilanthropy
 description: "In this field note, I share our winding path to finding a sustainable model through a "beautiful failure," a forced rebirth, and a resilient new approach."
-date: 2025-09-24
-feature_image: "https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2307TongHanChun.jpg"
-tags: [Youth Philanthropy Education]
+
 ---
 
 I remember the feeling so clearly. It was 2019, and I was standing at the back of a classroom in a Shanghai public school, watching a group of sixth-graders excitedly debate the meaning of philanthropy. By all conventional metrics, our year-long Philanthropy 101 course was a success. But deep down, I knew we were heading towards a dead end. 
