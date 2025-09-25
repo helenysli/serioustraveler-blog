@@ -2,10 +2,13 @@
 ---
 layout: post
 title: "A Long-Distance Run: Navigating the Landscape of Youth Philanthropy Education in China"
+date: 2025-09-24 22:30:01 +0800
+categories:
+  - Reflections
+tags:
+  - China Context
 description: "Why is philanthropy education in China so challenging? In this note, I explore the invisible "iceberg" of systemic issues that forced us to build a new path."
-date: 2025-09-24
-feature_image: "https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2307TongHanChun.jpg"
-tags: [Youth Philanthropy Education]
+
 ---
 ```
 
