@@ -9,7 +9,9 @@ tags: [Youth Philanthropy Education]
 
 **Hello, and welcome.** 
 
-My name is Helen Li. I am an educator from China, working on what I believe is a new frontier: helping a generation shape its relationship with philanthropy. It is this sense of possibility that brings me to the United States to listen and learn.
+My name is Helen Li. I am an educator from China, working on what I believe is a new frontier: helping a generation shape its relationship with philanthropy. It is this sense of possibility that brings me to the United States to listen and learn. 
+
+> Dominos - mission and vision 
 
 <!--more-->
 
