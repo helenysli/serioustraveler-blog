@@ -1,11 +1,9 @@
 ---
 layout: page
 type: about
-title: "My Journey"
+title: "My Journey: How I Got Here"
 ---
 
-
-### My Journey: How I Got Here
 My journey into philanthropy education began not in a classroom, but in the aftermath of a disaster. In May 2008, the devastating Sichuan earthquake struck. At the time, I was in my early thirties, working a stable job at an American company. Like many in China, it was the first time I had ever volunteered. That experience, witnessing both the immense suffering and the profound resilience of people, changed the trajectory of my life. It was a turning point.
 
 A year later, I left the corporate world and enrolled in business school at Boston University, choosing to specialize in a field that was still nascent in China: Public and Nonprofit Management. It was then when I met my mentor, the late Peter Karoff, a pioneer who founded the field of philanthropic advising in the U.S.
