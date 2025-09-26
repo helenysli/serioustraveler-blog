@@ -1,40 +1,24 @@
 ---
 layout: page
 type: about
-title: "关于"
+title: "My Journey"
 ---
 
 
-### 执此一隅
-￼
-2004年9月，开始写博客。曾经在 Blogbus 上，勤勤恳恳写过5年。之后因为出国读书，中断了。可惜的是，Blogbus 已经无法访问。好像丢了5年的文字时光。
+### My Journey: How I Got Here
+My journey into philanthropy education began not in a classroom, but in the aftermath of a disaster. In May 2008, the devastating Sichuan earthquake struck. At the time, I was in my early thirties, working a stable job at an American company. Like many in China, it was the first time I had ever volunteered. That experience, witnessing both the immense suffering and the profound resilience of people, changed the trajectory of my life. It was a turning point.
 
-2012年5月，学着用 WordPress 搭建了个人博客，有一搭没一搭地写些似乎越来越无趣的东西。
+A year later, I left the corporate world and enrolled in business school at Boston University, choosing to specialize in a field that was still nascent in China: Public and Nonprofit Management. It was then when I met my mentor, the late Peter Karoff, a pioneer who founded the field of philanthropic advising in the U.S.
 
-2016年4月，开始做减法，开始珍惜生命中那些简单、美好、有温度、有能量的东西，珍惜那些用时间来沉淀的东西，无论人事，还是物品；也因此发现，迄今为止，自己似乎真的是一枚柚子（游子），一路向东，不断搬离，留下的东西，却是不多；甚至曾经写过的文字，也散落在忘记了密码的硬盘中间，或许再也没有见天日的一天。
+Peter taught me two things that would become the bedrock of my life's work. First, that philanthropy is not just about giving money; it is a profound expression of one's personal values. The work must start from within, by asking, "Who am I and what are my values?". Second, he taught me that philanthropy must be strategic. Good intentions are not enough; we must pursue real, measurable impact.
 
-这期间，还建了两个和工作有关的网站，[Global Philanthropy Common](http://www.gpcommon.org)和 [善天下中文网](http://www.gpcommon.org/ch)，也是写字。
+In the following years, I had the privilege of acting as a bridge, helping Chinese foundations on their study tours in Boston. I saw their passion and their eagerness to learn, but I also saw their frustration when they returned home, unable to apply what they had learned in a completely different ecosystem. It became clear that something fundamental was missing at the grassroots level.
 
-如果从2004年，只在一个平台上写字，一直写字，现在会是怎样一番情景？
+Returning to China meant stepping onto this new frontier. It was a landscape where the well-established models from the U.S. couldn't simply be transplanted. The work wasn't about implementing known solutions, but about exploring, listening, and co-creating new paths from the ground up. I knew my work was here. And I knew it had to start with young people.
 
-回头去翻当年的文字，今日所思所想所感，已经与当年，有了太多的不同。  
-仍是打算把别处的文字，慢慢地移过来。
+This journey is a constant source of energy because it aligns perfectly with my core values: Freedom, Authenticity, Growth, Inspiration, and Creation. This work allows me the freedom to explore, demands that I be authentic with my students, pushes me to grow constantly, and empowers me to create new models where none existed before.
 
-### 当下之念
-
-不大确定，接下来的日子，会有多少时间来写字，会在这里写下什么。
-
-这么多年，喜欢的东西，依然没变，读书、旅行、音乐、摄影、电影、建筑；变化的是职业和当下的焦点，去年回国，创立了「青少年慈善学院」，开始了新一程。创业、慈善、教育，成为了当下的主题。
-
-先记之。
-
-181007, Sun, 12:10PM
-
-### Contact Me
-
-[Email](mailto:helenysli5489@gmail.com)  
-[微博：Helen-颖生](http://weibo.com/yinshengrujing)  
-[旧个人博客：行且珍惜](http://www.helenysli.com/ch)
+This is the path I am on—that of a serious traveler on the frontier. It has been a long and winding one, and at times, it can be lonely. That is why I am so eager to meet fellow travelers, to share stories from our different landscapes, and to find strength and inspiration in our shared commitment to empowering the next generation.
 
 
 
