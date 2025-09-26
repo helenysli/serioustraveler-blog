@@ -6,20 +6,14 @@ categories:
   - Field Notes
 tags:
   - Failure
-  - Women'sPhilanthropy
 description: "In this field note, I share our winding path to finding a sustainable model through a "beautiful failure," a forced rebirth, and a resilient new approach."
-
 ---
 
 I remember the feeling so clearly. It was 2019, and I was standing at the back of a classroom in a Shanghai public school, watching a group of sixth-graders excitedly debate the meaning of philanthropy. By all conventional metrics, our year-long Philanthropy 101 course was a success. But deep down, I knew we were heading towards a dead end. 
 
-<!--more-->
-
 This is the story of that dead end, and the long, winding path it forced us to take.
 
 From our founding, we were crystal clear about one thing: we wanted to use philanthropy and charity as a vehicle to help young people grow. From the very beginning, we hoped to explore a path that could truly integrate philanthropy with education. This clarity of purpose would prove essential as we navigated the challenges ahead.
-
-
 
 ### **Part 1: The Beautiful Failure - Lessons in Systemic Reality**
 
@@ -53,23 +47,27 @@ That moment of crisis became our moment of rebirth. It forced us to ask an even 
 
 ### Part 3: The Answer We Had to Earn - Finding Our Flywheel
 
-The answer that emerged was a model built around **Public Awareness Campaigns**.
+The answer that emerged was a model built around **Community Advocacy**.
 
 The idea was to decouple our work from any single institution. We would design high-quality, standardized toolkits around social issues like autism or dementia awareness. Students would learn the issue, co-create interactive games, and then take these toolkits into any public space they could find—a shopping mall, a park, a community library—to engage with strangers.
 
-This model was our answer to all the previous failures. It didn't rely on teachers to teach; we could train students directly. It didn't rely on nonprofits to provide opportunities; students created their own. And it didn't rely on a single, large-scale project that could be easily shut down; it was a thousand small, independent sparks.
-
 ![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2409ZhengDa.jpg)
+
+This model was our answer to all the previous failures. It didn't rely on teachers to teach; we could train students directly. It didn't rely on nonprofits to provide opportunities; students created their own. And it didn't rely on a single, large-scale project that could be easily shut down; it was a thousand small, independent sparks.
 
 We soon discovered this model created two powerful, self-reinforcing flywheels. A "Personal Growth Flywheel," where a shy student’s successful attempt to engage a stranger builds the confidence to take on bigger challenges. And a "Social Value Flywheel," where youth-led campaigns raise public awareness, which in turn brings more support to nonprofits.
 
+![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2509Flywheel.png)
+
+For two years, we focused on refining this Community Awareness model, and it has become the core of our work. But the path, as always, is winding.
+
 ### Part 4: The Path Unfolds - Our Next Evolution
 
-For two years, we focused on refining this Public Awareness model, and it has become the core of our work. But the path, as always, is winding.
+In September 2025, we began our newest experiment, this time with the Shanghai Little Bridge School, one of the top innovative schools in Shanghai. In a way, we have come full circle, back to working inside a school. But this time, everything is different. 
 
-In September 2025, we began our newest experiment, this time with the Shanghai Little Bridge School . In a way, we have come full circle, back to working inside a school. But this time, everything is different. Armed with the painful lessons from 2018, we are not there to teach. 
+![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2509JudyinClass.jpg)
 
-Instead, our role is to support the school's own homeroom teachers, empowering them to lead their students through a year-long journey. This landmark project, centered around the ten-year-old coming-of-age milestone, integrates modules on responsibility, neuroscience, dementia awareness, and public advocacy.
+First of all, we are not there to teach. Instead, our role is to support the school's own homeroom teachers, empowering them to lead their students through a year-long journey. This landmark project, centered around the ten-year-old coming-of-age milestone, integrates modules on responsibility, neuroscience, dementia awareness, and community advocacy.
 
 It is a new synthesis of everything we have learned, combining the resilience of our advocacy model with a more sustainable vision for empowering schools from within. It is still an experiment, full of new questions and challenges. And that feels exactly right.
 
