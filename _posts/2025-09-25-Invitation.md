@@ -7,7 +7,7 @@ categories:
 tags:
   - Service Learning
   - Purpose
-description: "关于恐惧和自由。关于勇气和选择。"
+description: "I'm a practitioner from China, sharing my notebook on youth purpose. As I visit the U.S., I invite fellow educators to connect and explore our shared impact."
 ---
 
 **Hello, and welcome.** 
