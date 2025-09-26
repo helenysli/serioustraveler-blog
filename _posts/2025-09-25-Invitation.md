@@ -7,7 +7,7 @@ categories:
 tags:
   - Service Learning
   - Purpose
-description: "I'm a practitioner from China, sharing my notebook on youth purpose. As I visit the U.S., I invite fellow educators to connect and explore our shared impact."
+description: "I'm a youth philanthropy educator from China, sharing my notes on youth purpose. As I visit the U.S., I invite fellow educators to connect and explore our shared impact."
 ---
 
 **Hello, and welcome.** 
