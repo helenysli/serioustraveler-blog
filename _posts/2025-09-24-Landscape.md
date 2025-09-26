@@ -1,4 +1,3 @@
-```
 ---
 layout: post
 title: "A Long-Distance Run: Navigating the Landscape of Youth Philanthropy Education in China"
@@ -9,9 +8,6 @@ tags:
   - China Context
 description: "Why is youth philanthropy education in China so challenging? In this note, I explore the invisible "iceberg" of systemic issues that forced us to build a new path."
 ---
-```
-
-
 
 “Why don’t you just partner with more non-profits or schools?”
 
