@@ -71,7 +71,6 @@ Unlike in the U.S., where 70% of donations come from individuals, in China, that
 ### The Finish Line & The Invitation
 
 
-
 This landscape—the visible gap in opportunity, the systemic failure of providers, and the deep cultural and educational roots—is why this work can feel like a lonely, long-distance run. We cannot simply follow a well-trodden path or import a model that works elsewhere. We must build the road as we run, inventing solutions tailored to our specific context.
 
 It is this very challenge that gave birth to our Public Advocacy model and our Purpose Framework. They were not designed in a vacuum; they were forged in the fires of these systemic constraints.
