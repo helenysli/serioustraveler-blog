@@ -16,7 +16,13 @@ Returning to China meant stepping onto this new frontier. It was a landscape whe
 
 This journey is a constant source of energy because it aligns perfectly with my core values: Freedom, Authenticity, Growth, Inspiration, and Creation. This work allows me the freedom to explore, demands that I be authentic with my students, pushes me to grow constantly, and empowers me to create new models where none existed before.
 
-This is the path I am on—that of a serious traveler on the frontier. It has been a long and winding one, and at times, it can be lonely. That is why I am so eager to meet fellow travelers, to share stories from our different landscapes, and to find strength and inspiration in our shared commitment to empowering the next generation.
+This is the path I am on—that of a serious traveler on the frontier. It has been a long and winding one, and at times, it can be lonely. That is why I am so eager to meet fellow travelers, to share stories from our different landscapes, and to find strength and inspiration in our shared commitment to empowering the next generation.  
+
+The best place to continue this conversation is on LinkedIn. I find it helps filter out the noise of spam. I am happy to share my email address via a direct message there.
+
+Please feel free to connect with me here: **[LinkedIn](https://www.linkedin.com/in/helenysli/)**
+
+
 
 
 
