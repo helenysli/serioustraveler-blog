@@ -27,7 +27,7 @@ The failure came when we tried to answer the most critical question: how do we s
 
 The beautiful, successful course we had built was entirely dependent on us. It was a wonderful project, but it wasn't a sustainable model. We had learned our first painful lesson: in China's philanthropy education "vacuum," creating a model that relied on NGOs or the existing school infrastructure was like building a house on sand.
 
-![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblogHuaSiClassPicture.jpg)
+![](https://helenysli2025.oss-cn-beijing.aliyuncs.com/stblogHuaSiClassPicture.jpg)
 
 ### Part 2: The Breakthrough and the Sudden Void - A Forced Rebirth
 
@@ -37,7 +37,7 @@ With inspiration and support from American peers like the Michigan Community Fou
 
 The model was a breakthrough. The students felt an immense sense of power and responsibility. The small, grassroots nonprofits they funded received not just money, but vital encouragement. For a moment, it felt like we had found it—the "holy grail" for philanthropy education in China.
 
-![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2106YGMCheckPresentation.jpg)
+![](https://helenysli2025.oss-cn-beijing.aliyuncs.com/stblog2106YGMCheckPresentation.jpg)
 
 And then, in July of 2022, the project was shut down by the supervising authorities for reasons that were never made clear to us.
 
@@ -45,7 +45,7 @@ The news was a huge blow. We were confused and heartbroken. A program that creat
 
 That moment of crisis became our moment of rebirth. It forced us to ask an even more fundamental question: Is it possible to create a model so resilient, so decentralized, that it depends on almost nothing but the passion of the students themselves?
 
-![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblogBetheChange.jpg)
+![](https://helenysli2025.oss-cn-beijing.aliyuncs.com/stblogBetheChange.jpg)
 
 ### Part 3: The Answer We Had to Earn - Finding Our Flywheel
 
@@ -53,13 +53,13 @@ The answer that emerged was a model built around **Community Advocacy**.
 
 The idea was to decouple our work from any single institution. We would design high-quality, standardized toolkits around social issues like autism or dementia awareness. Students would learn the issue, co-create interactive games, and then take these toolkits into any public space they could find—a shopping mall, a park, a community library—to engage with strangers.
 
-![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2409ZhengDa.jpg)
+![](https://helenysli2025.oss-cn-beijing.aliyuncs.com/stblog2409ZhengDa.jpg)
 
 This model was our answer to all the previous failures. It didn't rely on teachers to teach; we could train students directly. It didn't rely on nonprofits to provide opportunities; students created their own. And it didn't rely on a single, large-scale project that could be easily shut down; it was a thousand small, independent sparks.
 
 We soon discovered this model created two powerful, self-reinforcing flywheels. A "Personal Growth Flywheel," where a shy student’s successful attempt to engage a stranger builds the confidence to take on bigger challenges. And a "Social Value Flywheel," where youth-led campaigns raise public awareness, which in turn brings more support to nonprofits.
 
-![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2509Flywheel.png)
+![](https://helenysli2025.oss-cn-beijing.aliyuncs.com/stblog2509Flywheel.png)
 
 For two years, we focused on refining this Community Awareness model, and it has become the core of our work. But the path, as always, is winding.
 
@@ -67,7 +67,7 @@ For two years, we focused on refining this Community Awareness model, and it has
 
 In September 2025, we began our newest experiment, this time with the Shanghai Little Bridge School, one of the top innovative schools in Shanghai. In a way, we have come full circle, back to working inside a school. But this time, everything is different. 
 
-![](https://helenysli.oss-cn-beijing.aliyuncs.com/stblog2509JudyinClass.jpg)
+![](https://helenysli2025.oss-cn-beijing.aliyuncs.com/stblog2509JudyinClass.jpg)
 
 First of all, we are not there to teach. Instead, our role is to support the school's own homeroom teachers, empowering them to lead their students through a year-long journey. This landmark project, centered around the ten-year-old coming-of-age milestone, integrates modules on responsibility, neuroscience, dementia awareness, and community advocacy.
 
